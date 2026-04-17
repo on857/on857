@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Onesimos</h1>
+<h3 align="center">Full Stack Developer | PKI Intern | AI Enthusiast</h3>
 
-<!--
-**on857/on857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 4th Year Software Engineering Student (Internship)
+- 🔐 Currently working at INSA as a PKI Engineer
+- 🌐 Passionate about Web Development & Cybersecurity
+- 🤖 Interested in AI & Future Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+- 💻 Frontend: React, HTML, CSS, JavaScript
+- 🖥 Backend: Java, Node.js
+- 🗄 Database: MySQL, SQLite
+- 🔐 Security: PKI, Digital Signature
+
+---
+
+### 📌 Projects
+- 🔹 Walal Bethel Synod Website
+- 🔹 AI Resume Generator
+- 🔹 Expense Tracker (JavaFX)
+- 🔹 Pediatric Patient Management System
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=on857&show_icons=true)
+
+---
+
+### 📫 Contact Me
+- Email: onesimosmesfin612@gmail.com
+- LinkedIn: https://www.linkedin.com/in/onesimos-mesfin-1b3792318/
