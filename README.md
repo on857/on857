@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 4th Year Software Engineering Student (Internship Semester)  
+- 🎓 5th Year Software Engineering Student @AMU  
 - 🔐 PKI Engineer Intern at INSA (Cybersecurity & Digital Signature)  
 - 🌐 Passionate about building real-world web applications  
 - 🤖 Exploring AI, Security, and future technologies  
